@@ -1,1 +1,1 @@
-python C:\Users\david\Downloads\novozymes_test/api_test.py --url http://127.0.0.1:5000 --field country --value IT
+python C:/Users/david/Downloads/novozymes_test/code/api_test.py --url http://127.0.0.1:5000 --field country --value IT

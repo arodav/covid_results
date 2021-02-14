@@ -1,1 +1,1 @@
-python C:\Users\david\Downloads\novozymes_test/aro_app.py
+python C:\Users\david\Downloads\novozymes_test\code\aro_app.py
