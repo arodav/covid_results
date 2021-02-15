@@ -4,6 +4,18 @@ COVID-19 analysis by Davide Aronadio.
 
 &nbsp;
 
+## Requirements
+
+Please install the required packages if missing:
+
+```
+python -m pip install C:/your/local_path/requirements.txt
+```
+
+&nbsp;
+
+## Execution
+
 To run and test the API, please run the following:
 
 1. Run the Flask app by executing the `run_flask_app` batch file:
